@@ -1,4 +1,3 @@
-filelist.txt
 UnderlyingOptionsTradesCalcs_2019-09-03.csv
 UnderlyingOptionsTradesCalcs_2019-09-04.csv
 UnderlyingOptionsTradesCalcs_2019-09-05.csv
